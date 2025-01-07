@@ -1,2 +1,3 @@
 # shelldle
-Wordle in Powershell
+Wordle clone in Powershell
+
